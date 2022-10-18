@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678604585990",
+    "project_id": "insta-mod-65956",
+    "storage_bucket": "insta-mod-65956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678604585990:android:c92a1ac9ed7b2ff10d9787",
+        "android_client_info": {
+          "package_name": "com.example.instagram_mod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678604585990-173jnhtrrr232eoddomkfucpedummujp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdPlL0AWkusRtXfGLl0bAoIxPcD22baaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678604585990-173jnhtrrr232eoddomkfucpedummujp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
